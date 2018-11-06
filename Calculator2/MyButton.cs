@@ -17,7 +17,7 @@ namespace Calculator2
             this.Click += new System.EventHandler(OnButtonClick);
             myCalculatorPointer = MyCalculatorPointer;
         }
-
+        //button
         private static string buttonText;
         public static string ButtonText
         {
